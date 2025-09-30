@@ -49,3 +49,67 @@ The data for this analysis is fragmented across four different files, each repre
 
 ## Disclaimer: Data and Evaluation Criteria
 Please be advised that the datasets utilized in this project are synthetically generated and intended for illustrative purposes only. Furthermore, they have been significantly reduced in terms of sample size and the number of features to streamline the exercise. They do not represent or correspond to any actual business data. The primary objective of this evaluation is to assess the problem-solving methodology and the strategic approach employed, not necessarily the best possible tailored solution for the data. 
+
+
+------------------------------------------------------------------------------
+Summary of findings
+
+ROI Leader – Email Marketing
+
+       Email campaigns generated strong conversion volumes with nearly zero direct spend (since it leveraged an existing subscriber list).
+
+       This channel delivered the highest Return on Investment (ROI), essentially outperforming paid channels on cost-effectiveness.
+
+Cost Efficiency – Among Paid Channels
+
+       When excluding Email’s $0 cost, PPC proved to be the cheapest channel for acquiring a customer (lowest CPA).
+
+       Social Media ads had the highest CPA, meaning it was the most expensive way to win a conversion.
+
+Click-to-Sale Effectiveness
+
+       Email had the highest Conversion Rate (CVR) — converting a large share of clicks into actual sales.
+
+       Between the two paid channels, PPC out-converted Social Media, indicating PPC’s traffic is more purchase-ready.
+
+Revenue Contribution
+
+       PPC contributed the largest share of paid-media revenue, supported by both solid CVR and relatively low CPA.
+
+       Social Media drove awareness and clicks but showed weaker conversion efficiency and ROI.
+
+Trend Over Time
+
+       Weekly trends for all channels were relatively steady with only mild fluctuations — no sharp rise or decline was observed in ROAS or CVR.
+
+       This suggests performance is in a steady-state and predictable heading into the next quarter.
+
+****Recommendations for Next Quarter:
+
+ Prioritize Budget Efficiency
+
+       Increase investment in PPC: it delivers better ROI and lower CPA than Social Media; scaling it is likely to drive more cost-effective sales.
+
+       Sustain Email efforts: even small improvements in targeting or creative could yield high-margin gains since its variable cost is near zero.
+
+ Re-evaluate Social Media Spend
+
+       Social Media appears to be underperforming on CPA and ROI.
+
+       Either optimize the creative/audience mix to improve conversions or consider reallocating part of its budget to PPC where returns are stronger.
+
+Maintain Consistency in Messaging
+
+       Since trends are stable, incremental optimizations (ad copy testing, better audience segmentation) rather than drastic channel shifts will likely be most effective.
+
+Monitor & Test
+
+       Track weekly KPIs for any trend changes after budget reallocation.
+
+       Continue A/B testing in Social Media to discover higher-converting formats before cutting spend entirely.
+
+Final Quote:
+
+       Keep Email strong, grow PPC share, trim or optimize Social Media.
+
+       This mix maximizes return on every marketing dollar spent while preserving healthy conversion efficiency.
